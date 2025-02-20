@@ -1,0 +1,6 @@
+C#,
+MVC,
+WEB API,
+REST API,
+.NET CORE,
+SQL
